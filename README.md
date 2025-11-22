@@ -17,7 +17,6 @@
 - ⚙️ I work with tools like **MATLAB / Simulink** and **TIA Portal** for simulation and control system modeling.  
 - 🔌 I love exploring how **power systems and programming** come together in modern automation.  
 - 🚀 Currently learning more about **Embedded Systems** and **Data Analysis with Python**.  
-- ☕ Fun fact: I debug with coffee and music on repeat 🎧
 
 ---
 
