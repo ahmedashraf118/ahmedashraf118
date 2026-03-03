@@ -12,7 +12,7 @@
 
 ## 🧠 About Me
 
-- 🎓 I’m an **Electrical Power Engineering student**, passionate about **automation, control systems, and electrical machines**.  
+- 🎓 I’m an **Electrical Power Engineering student** , passionate about **automation, control systems, and electrical machines**.  
 - 💻 I code mainly in **Python** and **C** , **Dart** , and I enjoy solving real-world engineering problems with software.  
 - ⚙️ I work with tools like **MATLAB / Simulink** and **TIA Portal** for simulation and control system modeling.  
 - 🔌 I love exploring how **power systems and programming** come together in modern automation.  
